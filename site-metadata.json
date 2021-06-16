@@ -6,7 +6,7 @@
     "header": {
         "type": "header",
         "title": "Trestle",
-        "logo": "images/logo.svg",
+        "logo": "/images/trestle card.png",
         "logo_alt": "Agency logo",
         "has_nav": true,
         "nav_links": [
