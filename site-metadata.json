@@ -42,7 +42,7 @@
             },
             {
                 "label": "Team",
-                "url": "/Team",
+                "url": "Team",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
