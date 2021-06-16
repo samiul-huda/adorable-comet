@@ -5,7 +5,7 @@
     "base_font": "fraunces",
     "header": {
         "type": "header",
-        "title": "Agency",
+        "title": "Trestle",
         "logo": "images/logo.svg",
         "logo_alt": "Agency logo",
         "has_nav": true,
