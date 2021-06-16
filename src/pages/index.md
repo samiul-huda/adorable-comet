@@ -77,7 +77,6 @@ sections:
         image: images/logo-1.svg
         image_alt: Logo 1
       - type: grid_item
-        image: images/logo-2.svg
         image_alt: Logo 2
       - type: grid_item
         image: images/logo-3.svg
