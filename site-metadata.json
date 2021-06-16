@@ -81,5 +81,6 @@
             }
         ]
     },
-    "domain": "https://adorable-comet-a2131.netlify.app"
+    "domain": "https://adorable-comet-a2131.netlify.app",
+    "favicon": "/images/home_3.jpg"
 }
