@@ -42,7 +42,7 @@
             },
             {
                 "label": "Team",
-                "url": "#who are we",
+                "url": "who are we",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
